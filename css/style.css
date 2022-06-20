@@ -1,0 +1,33 @@
+:root{
+    --theme-color: rgb(110,243,165);
+}
+
+.bg-main{
+    background-color: var(--theme-color);
+}
+
+.text-main{
+    color: var(--theme-color);
+}
+
+.bg-theme{
+    background-color: #1b1b1b;
+}
+
+.home-section{
+    background-color: #1b1b1b;
+}
+
+.navbar{
+    top: 0;
+    left: 0;
+}
+
+h1{
+    font-size: 120px;
+}
+
+.home-content{
+    position: relative;
+    left: 7%;
+}
